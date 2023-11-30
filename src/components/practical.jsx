@@ -106,7 +106,7 @@ function PracticalExperience() {
         </p>
         <button
           onClick={handleEditClick}
-          className="bg-lime-900 p-2 rounded-lg text-white tracking-widest uppercase font-sans-serif hover:bg-white hover:text-black hover:font-serif hover:font-extrabold"
+          className="bg-lime-900 p-2 rounded-lg text-white tracking-widest uppercase font-sans-serif hover:bg-white hover:text-black hover:font-serif hover:font-extrabold hover:border-lime-900 hover:border-[2px]"
         >
           Edit
         </button>
